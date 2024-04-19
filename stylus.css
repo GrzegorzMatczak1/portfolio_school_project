@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(35, 35, 35);
+    color: #f6f6f6;
+}
+
+section{
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+}
+
+.hidden {
+    filter: blur(0.2rem);
+    transform: translateX(-100%);
+    opacity: 0;
+    transition: all 4s;
+}
+
+.show {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+}
