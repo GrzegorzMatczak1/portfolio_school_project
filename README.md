@@ -6,11 +6,6 @@ toggable welcome menu: https://codepen.io/TheMOZZARELLA/pen/gOePxaN
 
 3 fancy links: https://codepen.io/jhancock532/pen/GRZrLwY
 
+This is my portfolio project. I had put alot of work into it and i hope you like it :).
 
-navbar w3schools:
-
-interactable bottom navbar: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_bottom_nav
-
-clickable and closable navbar: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_sidenav_push
-
-interactable top navbar: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav
+You can also point out some mistakes if there are any
